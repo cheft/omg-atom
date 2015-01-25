@@ -1,0 +1,33 @@
+{
+  "name": "omg-atom",
+  "version": "0.0.1",
+  "authors": [
+    "cheft <cn.cheft@gamil.com>"
+  ],
+  "description": "cheft atom",
+  "keywords": [
+    "atom"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "packages",
+    "compile-cache"
+  ],
+  "dependencies": {
+    "isotope-ui": "https://github.com/braver/isotope-ui.git",
+    "git-plus": "https://github.com/akonwi/git-plus.git",
+    "emmet-atom": "https://github.com/emmetio/emmet-atom.git",
+    "file-icons": "https://github.com/DanBrooker/file-icons.git",
+    "atom-minimap": "https://github.com/fundon/atom-minimap.git",
+    "fuzzy-finder": "https://github.com/toshi-saito/fuzzy-finder.git",
+    "autocomplete-plus": "https://github.com/atom-community/autocomplete-plus.git",
+    "atom-beautify": "https://github.com/Glavin001/atom-beautify.git",
+    "atom-compile-coffee": "https://github.com/freshl/atom-compile-coffee.git",
+    "coffee-lint": "https://github.com/dotcypress/coffee-lint.git"
+  }
+}
