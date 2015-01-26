@@ -3,3 +3,20 @@
     userId: "b6b5961e-664f-d6ca-8510-16f33c2d4e73"
   welcome:
     showOnStartup: false
+  core:
+    disabledPackages: []
+    themes: [
+      "isotope-ui"
+      "atom-light-syntax"
+    ]
+  editor:
+    tabLength: 4
+    invisibles: {}
+  "autocomplete-plus":
+    confirmCompletion: "tab and enter"
+    navigateCompletions: "ctrl-p,ctrl-n"
+    includeCompletionsFromAllBuffers: true
+  minimap:
+    plugins:
+      "git-diff": true
+  emmet: {}

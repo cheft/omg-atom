@@ -1,0 +1,11 @@
+apm install isotope-ui
+apm install git-plus
+apm install emmet
+apm install file-icons
+apm install minimap
+apm install autocomplete-plus
+# apm install atom-beautify
+apm install minimap-git-diff
+apm install atom-compile-coffee
+apm install coffee-lint
+apm install terminal-status

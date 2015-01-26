@@ -1,0 +1,5 @@
+'body':
+  'cmd-k': 'core:cancel'
+
+'atom-text-editor:not([mini])':
+  'ctrl-e': 'editor:move-to-end-of-line'
